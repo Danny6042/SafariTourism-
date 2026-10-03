@@ -1814,6 +1814,10 @@ button {
     margin-top: 12px;
 }
 
+.footer-socials span {
+    color: rgba(252, 250, 245, 0.7);
+}
+
 .footer-bottom {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     padding: 20px 7%;
